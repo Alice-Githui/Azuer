@@ -1,0 +1,13 @@
+module.exports = [{
+      plugin: require('../../node_modules/gatsby-plugin-mdx/gatsby-browser.js'),
+      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"/home/githui/Desktop/Docz/docs/node_modules/gatsby-theme-docz/src/base/Layout.js"},"lessBabel":false,"mediaTypes":["text/markdown","text/x-markdown"],"root":"/home/githui/Desktop/Docz/docs/.docz"},
+    },{
+      plugin: require('../../node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('../../node_modules/gatsby-plugin-react-helmet-async/gatsby-browser.js'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('../../node_modules/gatsby-theme-docz/gatsby-browser.js'),
+      options: {"plugins":[],"themeConfig":{},"src":"./","gatsbyRoot":null,"themesDir":"src","mdxExtensions":[".md",".mdx"],"docgenConfig":{},"menu":[],"mdPlugins":[],"hastPlugins":[],"ignore":[],"typescript":false,"ts":false,"propsParser":true,"props-parser":true,"debug":false,"native":false,"openBrowser":null,"o":null,"open":null,"open-browser":null,"root":"/home/githui/Desktop/Docz/docs/.docz","base":"/","source":"./","gatsby-root":null,"files":"**/*.{md,markdown,mdx}","public":"/public","dest":".docz/dist","d":".docz/dist","editBranch":"master","eb":"master","edit-branch":"master","config":"","title":"Docs","description":"This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).","host":"localhost","port":3000,"p":3000,"separator":"-","paths":{"root":"/home/githui/Desktop/Docz/docs","templates":"/home/githui/Desktop/Docz/docs/node_modules/docz-core/dist/templates","docz":"/home/githui/Desktop/Docz/docs/.docz","cache":"/home/githui/Desktop/Docz/docs/.docz/.cache","app":"/home/githui/Desktop/Docz/docs/.docz/app","appPackageJson":"/home/githui/Desktop/Docz/docs/package.json","appTsConfig":"/home/githui/Desktop/Docz/docs/tsconfig.json","gatsbyConfig":"/home/githui/Desktop/Docz/docs/gatsby-config.js","gatsbyBrowser":"/home/githui/Desktop/Docz/docs/gatsby-browser.js","gatsbyNode":"/home/githui/Desktop/Docz/docs/gatsby-node.js","gatsbySSR":"/home/githui/Desktop/Docz/docs/gatsby-ssr.js","importsJs":"/home/githui/Desktop/Docz/docs/.docz/app/imports.js","rootJs":"/home/githui/Desktop/Docz/docs/.docz/app/root.jsx","indexJs":"/home/githui/Desktop/Docz/docs/.docz/app/index.jsx","indexHtml":"/home/githui/Desktop/Docz/docs/.docz/app/index.html","db":"/home/githui/Desktop/Docz/docs/.docz/app/db.json"}},
+    }]
