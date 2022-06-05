@@ -3080,11 +3080,9 @@ module.exports = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var scope_0 = __webpack_require__(/*! ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/4f581bc302e9b5cbc70213a1f2724e61.js */ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/4f581bc302e9b5cbc70213a1f2724e61.js").default;
+var scope_0 = __webpack_require__(/*! ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/e92f8988d65cf25c087d226e6c0ef06f.js */ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/e92f8988d65cf25c087d226e6c0ef06f.js").default;
 
-var scope_1 = __webpack_require__(/*! ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/e92f8988d65cf25c087d226e6c0ef06f.js */ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/e92f8988d65cf25c087d226e6c0ef06f.js").default;
-
-const __DOCZ_DUMMY_EXPORT_DEFAULT = Object.assign({}, scope_0, scope_1);
+const __DOCZ_DUMMY_EXPORT_DEFAULT = Object.assign({}, scope_0);
 
 /* harmony default export */ __webpack_exports__["default"] = (__DOCZ_DUMMY_EXPORT_DEFAULT);
 
@@ -4677,17 +4675,6 @@ module.exports = function shallowEqual(objA, objB, compare, compareContext) {
 
 /***/ }),
 
-/***/ "../src/snowfall.js":
-/*!**************************!*\
-  !*** ../src/snowfall.js ***!
-  \**************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-
-
-/***/ }),
-
 /***/ "./.cache/api-runner-ssr.js":
 /*!**********************************!*\
   !*** ./.cache/api-runner-ssr.js ***!
@@ -4980,28 +4967,6 @@ exports.wrapPageElement = true;
  */
 
 exports.wrapRootElement = true;
-
-/***/ }),
-
-/***/ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/4f581bc302e9b5cbc70213a1f2724e61.js":
-/*!********************************************************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/4f581bc302e9b5cbc70213a1f2724e61.js ***!
-  \********************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _src_snowfall_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../../src/snowfall.js */ "../src/snowfall.js");
-/* harmony import */ var _src_snowfall_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_src_snowfall_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-
-
-/* harmony default export */ __webpack_exports__["default"] = ({
-  Chart: _src_snowfall_js__WEBPACK_IMPORTED_MODULE_0__["Chart"],
-  React: react__WEBPACK_IMPORTED_MODULE_1__
-});
 
 /***/ }),
 

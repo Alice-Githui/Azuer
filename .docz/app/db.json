@@ -92,27 +92,6 @@
       }
     },
     {
-      "key": "src/example.mdx",
-      "value": {
-        "id": "d3be5c520c8cc3bdd6ff5a49f9353d7b",
-        "filepath": "src/example.mdx",
-        "fullpath": "/home/githui/Desktop/Docz/docs/src/example.mdx",
-        "link": "",
-        "hidden": false,
-        "slug": "src-example",
-        "route": "/src-example",
-        "name": "Example",
-        "menu": "",
-        "headings": [
-          {
-            "slug": "last-years-snowfall",
-            "depth": 1,
-            "value": "Last year’s snowfall"
-          }
-        ]
-      }
-    },
-    {
       "key": "src/index.mdx",
       "value": {
         "name": "Hello Docz",
